@@ -7,7 +7,7 @@ module.exports = {
         aliases: [],
         category: "🧷 Faq",
         run: async (bot, message, args) => {
-          if(message.author.id !== "632953533905502258") return
+          if(message.author.id !== "OWNER ID") return
         //message.delete();
         let warnPermErr = new MessageEmbed()
         .setColor("RED")
