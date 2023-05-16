@@ -1,18 +1,16 @@
 {
-"ServerID": "896714706809663549",
-"OWNER_ID":"632953533905502258", 
-    "roleid": "976467916990087168",
-  "adminid": "972419602137120808",
-"footer": "NSFW Bot • is.gd/nsfwbot",
-"nsfw_channel_only": "false",
-  
-  "command": ".verify",
-  "roleID": "1054835915022934247",
+"ServerID": "",
+"OWNER_ID":"", 
+    "roleid": "",
+  "adminid": "",
 
   "command": ".verify",
-  "roleID": "1100145332404359219",
+  "roleID": "",
 
-   "WELCOME_CHANNEL": "1102649854280355860",
+  "command": ".verify",
+  "roleID": "",
+
+   "WELCOME_CHANNEL": "",
 
  
     "success": "<:success_3:948948438601592862>",
