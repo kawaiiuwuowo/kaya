@@ -8,3 +8,5 @@
 ..✅All credit goes to me i spend so much time on this bot✅ 
 
 ..❤️enjoy the bot❤️
+
+..✨Need help dm me on discord (DevCuddly~#4639)✨
